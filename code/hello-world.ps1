@@ -1,5 +1,5 @@
-$wh = 'Hello, World!' | Write-Host
-$wo = 'Hello, World!' | Write-Output
+$wh = 'Hello, World! Host' | Write-Host
+$wo = 'Hello, World! Output' | Write-Output
 
 Get-Variable wh 
 
